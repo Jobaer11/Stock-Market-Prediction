@@ -32,10 +32,8 @@ coverage.xml
 .env
 
 # Machine Learning Models
-*.pkl
 *.joblib
 *.h5
-*.model
 stock_market_prediction/backend/models/*.pkl
 stock_market_prediction/backend/models/*.h5
 
