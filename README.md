@@ -113,7 +113,7 @@ This project is provided as-is for educational purposes.
 
 ## Author
 
-Mehedi
+Jobaer
 
 ## Contact
 
